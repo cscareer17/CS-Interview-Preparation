@@ -71,4 +71,3 @@ Remember that if you don't negotiate, you left some money on the table.
 ## Total: 3 month preparation
 
 I hope you enjoy the work. Sharing my work freely and open sourcing is a real pride for me. If you think my work deserves a :star:, or a thank-you, here is my Bitcoin address __17vktBCzLhZVKfKTZZiWsxCy6kWTdMBAnZ__ :pray:.  
-My email address is `cscareer17 at gmail dot com`, I do training sessions for CS interviews on request.
